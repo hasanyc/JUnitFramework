@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/cssparser-0.9.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/gson-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/htmlunit-2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/htmlunit-core-js-2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/httpmime-4.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/json-20080701.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/nekohtml-1.9.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/operadriver-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/phantomjsdriver-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/selenium-java-2.44.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/selenium-java-2.44.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/selenium-server-standalone-2.44.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hassan/Old Projects/JunitFramework/JAR/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
